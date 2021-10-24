@@ -1,0 +1,2 @@
+# paisal
+Tugas Kecerdasan Buatan
